@@ -1,0 +1,10 @@
+{
+    "name": "3re/OWAPI-PHP",
+    "type": "composer-plugin",
+    "require": {
+        "composer-plugin-api": "^1.0"
+    },
+    "extra": {
+        "class": "3re\\OWAPI"
+    }
+}
